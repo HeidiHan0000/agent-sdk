@@ -9,7 +9,7 @@ go 1.17
 require (
 	github.com/cenkalti/backoff/v4 v4.1.3
 	github.com/gorilla/mux v1.8.0
-	github.com/hyperledger/aries-framework-go v0.1.9-0.20220803171934-fc0fdbe6389d
+	github.com/hyperledger/aries-framework-go v0.1.9-0.20220805202510-1d1ff784e8b8
 	github.com/hyperledger/aries-framework-go-ext/component/storage/couchdb v0.0.0-20220428163625-96d8261511e1
 	github.com/hyperledger/aries-framework-go-ext/component/storage/mongodb v0.0.0-20220621145854-c0137c65d7fa
 	github.com/hyperledger/aries-framework-go-ext/component/storage/mysql v0.0.0-20220330145438-233eb7999876

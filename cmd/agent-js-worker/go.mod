@@ -10,11 +10,11 @@ require (
 	github.com/btcsuite/btcd v0.22.0-beta
 	github.com/google/tink/go v1.6.1
 	github.com/google/uuid v1.3.0
-	github.com/hyperledger/aries-framework-go v0.1.9-0.20220803171934-fc0fdbe6389d
+	github.com/hyperledger/aries-framework-go v0.1.9-0.20220805202510-1d1ff784e8b8
 	github.com/hyperledger/aries-framework-go-ext/component/vdr/orb v1.0.0-rc2.0.20220728172020-0a8903e45149
 	github.com/hyperledger/aries-framework-go/component/storage/edv v0.0.0-20220713133919-d5d31b7d24e7
 	github.com/hyperledger/aries-framework-go/component/storage/indexeddb v0.0.0-20220713133919-d5d31b7d24e7
-	github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220516154446-0ba34929e05b
+	github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220526205258-18d510d84955
 	github.com/hyperledger/aries-framework-go/spi v0.0.0-20220614152730-3d817acfa48b
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/piprate/json-gold v0.4.1
@@ -22,7 +22,7 @@ require (
 	github.com/trustbloc/agent-sdk v0.0.0-00010101000000-000000000000
 	github.com/trustbloc/auth/spi/gnap v0.0.0-20220720135047-587833ae9ab1
 	github.com/trustbloc/edge-core v0.1.8
-	github.com/trustbloc/edv v0.1.8
+	github.com/trustbloc/edv v0.1.9-0.20220621144721-c5002b0e0ac3
 )
 
 require (
